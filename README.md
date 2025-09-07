@@ -7,4 +7,10 @@ Vad vill du lära dig under utbildningen?
 - Analysera problem och hitta tekniska lösningar
 - Utveckla både webb och applikationslösningar som andra kan använda i verkligheten
 Vad har du för intressen?
-- På Fritiden gillar jag att utveckla som programerare eftersom jag vill bli riktigt  bra på det jag göra. Jag spelar basket vilket ger mig både energi och lagkänsla. Jag uppskattar också att umugås med familj och vänner och jag tycker om att resa och upptäcka nya platser. Och shoppa nya kläder.  
+- På Fritiden gillar jag att utveckla som programerare eftersom jag vill bli riktigt  bra på det jag göra. Jag spelar basket vilket ger mig både energi och lagkänsla. Jag uppskattar också att umugås med familj och vänner och jag tycker om att resa och upptäcka nya platser. Och shoppa nya kläder.
+- Saker jag vill lära mig
+- Programering
+- Git & Github
+- Skapa enkla websidor med HTML och CSS
+- Bygga appar med flera funktioner
+- Grundläggande databashantering och SQL 
